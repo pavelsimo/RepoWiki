@@ -1,0 +1,7 @@
+node_modules/
+.repowiki-render-*/
+/.playwright-mcp/
+/site/
+/wiki/
+._*
+**/._*
