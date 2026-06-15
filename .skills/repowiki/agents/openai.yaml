@@ -1,0 +1,4 @@
+interface:
+  display_name: "RepoWiki"
+  short_description: "Operate RepoWiki lifecycle workflows"
+  default_prompt: "Use the RepoWiki skill to manage repositories, wiki markdown, and static site rendering."
